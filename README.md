@@ -1,2 +1,2 @@
 # Course
-A training course
+## A training course
