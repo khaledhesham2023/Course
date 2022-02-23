@@ -1,0 +1,2 @@
+# Course
+A training course
